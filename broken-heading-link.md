@@ -78,6 +78,6 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-# Absolute abroad strawberry
+# This should be visible upon page load
 
 Useful information that the visitor isn't directed to due to the mermaid graph rendering after the viewport has been moved.

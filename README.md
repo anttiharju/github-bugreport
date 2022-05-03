@@ -15,4 +15,4 @@ It's caused by mermaid diagrams rendering after the viewport has been moved to t
 
 You might need to disable caching via your browser's debug console.
 
-[Example](broken-heading-link.md#absolute-abroad-strawberry). Note that the viewport should be at bottom of page. The text at the bottom of the page best illustrates the need to fix this.
+[Example](broken-heading-link.md#this-should-be-visible-upon-page-load). Note that the viewport should be at bottom of page. The text at the bottom of the page best illustrates the need to fix this.
