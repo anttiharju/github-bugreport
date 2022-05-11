@@ -9,10 +9,12 @@ Both pages use the same markdown.
 
 I think this feature would be important to have inside wikis to make the content look more professional. For example some mathematical notations are easiest to include with a transparent png and now the workaround is to add a background which is bound to look ugly in one of the themes. 
 
-## Mermaid graph rendering breaks heading-specified links on first page load
+## ~~Mermaid graph rendering breaks heading-specified links on first page load~~
 
-It's caused by mermaid diagrams rendering after the viewport has been moved to the heading.
+~~It's caused by mermaid diagrams rendering after the viewport has been moved to the heading.~~
 
-You might need to disable caching via your browser's debug console.
+~~You might need to disable caching via your browser's debug console.~~
 
-[Example](broken-heading-link.md#this-should-be-visible-upon-page-load). Note that the viewport should be at bottom of page. The text at the bottom of the page best illustrates the need to fix this.
+~~[Example](broken-heading-link.md#this-should-be-visible-upon-page-load). Note that the viewport should be at bottom of page. The text at the bottom of the page best illustrates the need to fix this.~~
+
+This was fixed on 11th of May 2022!
