@@ -2,7 +2,9 @@
 
 ## Can't specify the theme in which an image is shown to inside repository wiki markdowns
 
-Status: "Currently, theme context for images is not supported in markdown in wikis, though this is something that the team is working on fixing in the future. We would recommend keeping an eye on the GitHub Changelog for possible future announcements about this when released. https://github.blog/changelog/"
+Status: Instead of using theme-aware images to display math formulas in both dark and light themes it's better to use MathJax: https://github.blog/changelog/2022-08-09-wikis-now-support-math-and-mermaid-diagrams/.
+
+"Currently, theme context for images is not supported in markdown in wikis, though this is something that the team is working on fixing in the future. We would recommend keeping an eye on the GitHub Changelog for possible future announcements about this when released. https://github.blog/changelog/"
 
 [Broken example in wiki](https://github.com/anttiharju/github-bugreport/wiki)
 
